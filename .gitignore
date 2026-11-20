@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+AGENTS.local.md
+.claude/
